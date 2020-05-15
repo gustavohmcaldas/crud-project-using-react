@@ -3,5 +3,5 @@ import React from 'react'
 
 export default props =>
     <footer className="footer">
-        Footer
+        Developed by Gustavo Caldas
     </footer>
